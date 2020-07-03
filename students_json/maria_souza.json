@@ -1,0 +1,128 @@
+{
+  "nome_completo": "Maria José de Souza oliveira",
+  "o_que_eu_quero": "Estou aberta a oportunidades na área de tecnologia e desenvolvimento front-end, resolvendo problemas e encontrando soluções.",
+  "cidade_estado:": "São Paulo/SP",
+  "link_linkedin": "https://www.linkedin.com/in/maria-souza-oliveira/",
+  "link_github": "https://github.com/riamavx",
+  "email": "messenger.mariah2017@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Olá, sou a Maria tenho 26 anos, desenvolvedora front-end formada pela {Reprograma} que é um bootcamp de 20 semanas voltado para inclusão de mulheres na área de tecnologia, aprendi e pratiquei nesse período HTML5, CSS, JS, JQUERY, BOOTSTRAP e REACT, fiz alguns projetos em grupo e projetos voluntários. Antes do bootcamp trabalhei com atendimento ao público, na parte administrativa e supervisionando uma equipe de quase 15 pessoas como fiscal de loja."
+    
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Projeto Voluntário",
+      "empresa": "COOHABRAS - Cooperativa Habitacional Central do Brasil",
+      "periodo": "Jun/2020 a Jul/2020",
+      "atividades_desenvolvidas": "Criação do website da ONG COOHABRAS feito por duas desenvolvedoras. Utilizamos HTML, CSS, JQuery, JavaScript, com layout responsivo (adaptado ao celular) e com publicação no servidor do cliente. O objetivo do cliente era melhorar o layout e dividir por seção cada parte do seu site, deixando-o mais limpo.",
+      "link": "https://coohabras.netlify.app/"
+    },
+    {
+      "cargo_funcao": "Projeto Voluntário",
+      "empresa": "Reprograma - Cozinha da Rê",
+      "periodo": "Mai/2020",
+      "atividades_desenvolvidas": "Projeto feito na Reprograma com clientes reais, feito em equipe de cinco pessoas e entregue em uma semana. O objetivo da cliente é facilitar  o acesso e divulgação dos seus produtos vegetarianos e veganos. Tecnologias utilizadas:Figma, Git, Github, HTML, CSS, Javascript, Bootstrap, Jquery. ",
+      "link": "https://www.cozinhadare.com.br/"
+    },
+
+    {
+      "cargo_funcao": "Fiscal de Loja",
+      "empresa": "Empório Pura Vida",
+      "periodo": "Fev/2019 a Out/2019",
+      "atividades_desenvolvidas": "Supervisionava uma equipe de 13 pessoas, direcionando-os para concluir algumas atividades, resolvia trocas com clientes e fechamento de caixa",
+      "link": null
+    },
+
+    {
+      "cargo_funcao": "Auxiliar Administrativo",
+      "empresa": "Empório Pura Vida",
+      "periodo": "Abr/2015 a Jul/2017",
+      "atividades_desenvolvidas": "Emissão de notas fiscais de entrada e saída,controle do contas a pagar e contas a receber,digitação de documentos, controle e arquivamento,manter arquivos e cadastros atualizados, atendimentos de fornecedores e fornecimento de informações,acompanhar trabalho de logística da empresa.",
+      "link": null
+    }
+  ],
+
+
+
+
+
+
+  "o_que_ja_estudei": [
+    {
+      "curso": "Desenvolvimento Frontend",
+      "instituicao": "Reprograma",
+      "periodo": "Mar/2020 a Jul/2020",
+      "resumo_conhecimentos_aprendidos": "A {reprograma} é uma iniciativa de impacto social que foca em ensinar programação para mulheres cis e trans que não têm recursos e/ou oportunidades para aprender a programar. Áreas de estudo:UX Design, Metodologias ágeis, Lógica de programação, HTML, CSS, JavaScript, JQuery, ReactJs, Bootstrap, Git, Github, Tecnologias assistivas, Orientação de carreira e Projetos práticos."
+    },
+    {
+      "curso": "Comércio Exterior",
+      "instituicao": "UNIFG Faculdade dos Guararapes",
+      "periodo": "2014 a 2016",
+      "resumo_conhecimentos_aprendidos": "Curso multidisciplinar que analisa e compreende problemas complexos, considerando diversas vertentes e áreas do conhecimento. Pude aprender um pouco sobre finanças empresariais, legislação aduaneira, projetos de importação de um produto local e também sobre comunicação internacional."
+    }
+  ],
+  
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 7
+    },
+    
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "JQUERY",
+      "pontuacao": 6
+    },
+    
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "BOOTSTRAP",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "REACT",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "RESPONSIVIDADE",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "UX DESIGN",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS",
+      "pontuacao": 6
+    },
+    
+    {
+      "habilidade_ferramenta": "HOSPEDAGEM DE SITE",
+      "pontuacao": 8
+    },
+   
+    {
+      "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO",
+      "pontuacao": 7
+    },
+    
+    {
+      "habilidade_ferramenta": "Figma",
+      "pontuacao": 7
+    }
+  ]
+}
