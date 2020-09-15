@@ -115,6 +115,11 @@
       "habilidade_ferramenta": "CSS",
       "pontuacao": 7
     },
+
+    {
+      "habilidade_ferramenta": "SASS",
+      "pontuacao": 6
+    },
     
     {
       "habilidade_ferramenta": "JAVASCRIPT",
@@ -128,7 +133,7 @@
 
     {
       "habilidade_ferramenta": "JQUERY",
-      "pontuacao": 6
+      "pontuacao": 7
     },
     
     {
@@ -143,6 +148,12 @@
       "habilidade_ferramenta": "REACT",
       "pontuacao": 6
     },
+
+    {
+      "habilidade_ferramenta": "ANGULAR",
+      "pontuacao": 3
+    },
+
     {
       "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
       "pontuacao": 6
