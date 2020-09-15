@@ -1,83 +1,136 @@
 {
   "nome_completo": "Maria José de Souza oliveira",
-  "o_que_eu_quero": "Descrição resumida sobre o que você deseja para sua carreira",
+  "o_que_eu_quero": "Ter a minha primeira experiência no mercado de trabalho como pessoa desenvolvedora, onde possa aprender e aplicar o que já sei sobre agilidade, como escrever código com qualidade e como garantir da melhor maneira.",
   "cidade_estado:": "São Paulo/SP",
-  "link_linkedin": "https://www.linkedin.com/in/seulinkedin/",
-  "link_github": "https://github.com/seugithub",
-  "email": "seuemail@gmail.com",
+  "link_linkedin": "https://www.linkedin.com/in/maria-souza-oliveira/",
+  "link_github": "https://github.com/riamavx",
+  "email": "messenger.mariah2017@gmail.com",
   "um_pouco_sobre_mim": [
-    "Aqui é um parágrafo descrevendo um pouco sobre você",
-    "Aqui é outro parágrafo falando sobre sua trajetória",
-    "Nesse aqui você pode dizer o que você curte fazer",
-    "Fique a vontade, mas busque ser objetiva"
+    "Olá, Sou desenvolvedora frontend, estudei no bootcamp da Reprograma e atualmente estou no bootcamp da Serasa (Maria vai com as Devs).Anteriormente cheguei a trabalhar com com atendimento ao público, área administrativa e supervisionando uma equipe de quase 15 pessoas como fiscal de loja."
+    
   ],
   "no_que_ja_trabalhei": [
     {
-      "cargo_funcao": "Design Gráfica",
-      "empresa": "Empresa XPTO",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
+      "cargo_funcao": "Projeto Voluntário",
+      "empresa": "TECH4 COVID 19",
+      "periodo": "AGO/2020 até Agora",
+      "atividades_desenvolvidas": "Estarei ajudando no desenvolvimento front-end, estruturando páginas, com HTML e Sass, e tendo oportunidade de aprender um pouco sobre Angular e integração do front com o backend.",
       "link": null
     },
+    
     {
       "cargo_funcao": "Projeto Voluntário",
-      "empresa": "Reprograma - Cliente Fulano",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
-      "link": "http://clientefulano.com.br"
+      "empresa": "Reprograma",
+      "periodo": "Jul/2020 até agora",
+      "atividades_desenvolvidas": "Acompanhar e dar suporte para a professora e alunas, tirando duvidas sobre conteúdos de front-end. Até o momento pude contribuir com as aulas de html,css, git/github e introdução a lógica de programação e javascript.",
+      "link": null
+    },
+    
+
+
+    {
+      "cargo_funcao": "Projeto Voluntário",
+      "empresa": "COOHABRAS - Cooperativa Habitacional Central do Brasil",
+      "periodo": "Jun/2020 a Jul/2020",
+      "atividades_desenvolvidas": "Projeto teve com finalidade desenvolver um novo site para coohabras com parceria da ong Invenção Z. foi desenvolvido com html,css, jquery, javascript. O layout ficou responsivo e a publicação foi feita no servidor do cliente. O objetivo do cliente era melhorar o layout e dividir por seção cada parte do seu site, deixando-o mais limpo e intuitivo.",
+      "link": "https://www.coohabras.org.br/"
+    },
+    
+    {
+      "cargo_funcao": "Projeto Voluntário",
+      "empresa": "Reprograma - Cozinha da Rê",
+      "periodo": "Mai/2020",
+      "atividades_desenvolvidas": "Projeto feito na Reprograma com clientes reais, feito em equipe de cinco pessoas e entregue em uma semana. O objetivo da cliente é facilitar  o acesso e divulgação dos seus produtos vegetarianos e veganos. Tecnologias utilizadas:Figma, Git, Github, HTML, CSS, Javascript, Bootstrap, Jquery. ",
+      "link": "https://www.cozinhadare.com.br/"
+    },
+    
+    {
+      "cargo_funcao": "Fiscal de Loja",
+      "empresa": "Empório Pura Vida",
+      "periodo": "Fev/2019 a Out/2019",
+      "atividades_desenvolvidas": "supervisionava uma equipe de quase 15 pessoas como fiscal de loja direcionado-as a concluir algumas atividades e também cuidava do fechamento do caixa. ",
+      "link": null
+    },
+    
+    {
+      "cargo_funcao": "Auxiliar Administrativo",
+      "empresa": "Empório Pura Vida",
+      "periodo": "Abr/2015 a Jul/2017",
+      "atividades_desenvolvidas": "Emissão de notas fiscais de entrada e saída, controle do contas a pagar e contas a receber, digitação de documentos, controle e arquivamento, manter arquivos e cadastros atualizados, atendimentos de fornecedores e fornecimento de informações, acompanhar trabalho de logística da empresa, atendimento de clientes.",
+      "link": null
     }
   ],
+
+
   "o_que_ja_estudei": [
     {
-      "curso": "Design Gráfico",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2016 a Dez/2018",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "Desenvolvimento Web",
+      "instituicao": "Maria vai com as Devs Powered by Serasa",
+      "periodo": "Ago/2020 a Nov/2020",
+      "resumo_conhecimentos_aprendidos": "Tem como objetivo  promover a qualidade técnica para inserção no mercado de tecnologia, focado na linguagem de programação Python.  O programa conta com 6 módulos de conteúdos de tecnologia: Entendendo a web, Introdução ao python, Metodologias ágeis, Aprofundamento em Python, Banco de dados e Docker"
+    },
+
+    {
+      "curso": "Desenvolvimento Frontend",
+      "instituicao": "Reprograma",
+      "periodo": "Mar/2020 a Jul/2020",
+      "resumo_conhecimentos_aprendidos": "A {reprograma} é uma iniciativa de impacto social que foca em ensinar programação para mulheres cis e trans que não têm recursos e/ou oportunidades para aprender a programar. Áreas de estudo:UX Design, Metodologias ágeis, Lógica de programação, HTML, CSS, JavaScript, JQuery, ReactJs, Bootstrap, Git, Github, Tecnologias assistivas, Orientação de carreira e Projetos práticos."
     },
     {
-      "curso": "Curso de Web Design",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2015 a Dez/2015",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "Comércio Exterior",
+      "instituicao": "UNIFG Faculdade dos Guararapes",
+      "periodo": "2014 a 2016",
+      "resumo_conhecimentos_aprendidos": "Curso multidisciplinar que analisa e compreende problemas complexos, considerando diversas vertentes e áreas do conhecimento. Pude aprender um pouco sobre finanças empresariais, legislação aduaneira, projetos de importação de um produto local e também sobre comunicação internacional."
     }
+
+    
   ],
+
   "meus_outros_aprendizados_e_interesses": [
     {
       "interesse_evento_curso": "Curso online de Javascript",
-      "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript"
+      "instituicao": "Alura",
+      "resumo_conhecimentos_interesses": "Primeiros passos com a linguagem"
     },
     {
-      "interesse_evento_curso": "Curso ES6",
-      "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe moderna do javascript"
+      "interesse_evento_curso": "Curso online Javascript",
+      "instituicao": "Alura",
+      "resumo_conhecimentos_interesses": "Introdução a orientação objeto"
+    },
+
+    {
+      "interesse_evento_curso": "Curso online Sass e Compass",
+      "instituicao": "Alura",
+      "resumo_conhecimentos_interesses": "Aprendendo a usar o pré-processador e facilitando manutenção de códigos."
     }
+
   ],
+  
   "no_que_me_destaco": [
     {
       "habilidade_ferramenta": "HTML",
-      "pontuacao": 9
+      "pontuacao": 8
     },
     {
       "habilidade_ferramenta": "CSS",
-      "pontuacao": 9
+      "pontuacao": 7
     },
-    {
-      "habilidade_ferramenta": "SASS",
-      "pontuacao": 6
-    },
+    
     {
       "habilidade_ferramenta": "JAVASCRIPT",
-      "pontuacao": 8
+      "pontuacao": 7
     },
+
+    {
+      "habilidade_ferramenta": "PYTHON",
+      "pontuacao": 5
+    },
+
     {
       "habilidade_ferramenta": "JQUERY",
       "pontuacao": 6
     },
-    {
-      "habilidade_ferramenta": "NODE",
-      "pontuacao": 1
-    },
+    
     {
       "habilidade_ferramenta": "GIT/GITHUB",
       "pontuacao": 8
@@ -88,59 +141,38 @@
     },
     {
       "habilidade_ferramenta": "REACT",
-      "pontuacao": 8
+      "pontuacao": 6
     },
     {
       "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
-      "pontuacao": 5
+      "pontuacao": 6
     },
     {
       "habilidade_ferramenta": "RESPONSIVIDADE",
-      "pontuacao": 9
+      "pontuacao": 8
     },
     {
       "habilidade_ferramenta": "UX DESIGN",
-      "pontuacao": 6
+      "pontuacao": 7
     },
     {
       "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS",
       "pontuacao": 6
     },
-    {
-      "habilidade_ferramenta": "WORDPRESS",
-      "pontuacao": 9
-    },
-    {
-      "habilidade_ferramenta": "PHP",
-      "pontuacao": 3
-    },
-    {
-      "habilidade_ferramenta": "MySQL",
-      "pontuacao": 3
-    },
+    
     {
       "habilidade_ferramenta": "HOSPEDAGEM DE SITE",
       "pontuacao": 8
     },
-    {
-      "habilidade_ferramenta": "FTP",
-      "pontuacao": 5
-    },
+   
     {
       "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO",
-      "pontuacao": 8
+      "pontuacao": 7
     },
+    
     {
-      "habilidade_ferramenta": "PHOTOSHOP",
-      "pontuacao": 9
-    },
-    {
-      "habilidade_ferramenta": "ILUSTRATOR",
-      "pontuacao": 9
-    },
-    {
-      "habilidade_ferramenta": "INDESIGN",
-      "pontuacao": 9
+      "habilidade_ferramenta": "Figma",
+      "pontuacao": 7
     }
   ]
 }
